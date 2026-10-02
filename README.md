@@ -44,3 +44,8 @@ git clone [https://github.com/Laurita003/Ticketverkauf.git](https://github.com/L
 cd Ticketverkauf
 javac Main.java
 java Main
+
+## Autorin
+
+**Laurita Elsa**  
+* GitHub: [@Laurita003](https://github.com/Laurita003)
