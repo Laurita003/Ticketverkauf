@@ -35,6 +35,13 @@ https://github.com/Laurita003/Ticketverkauf
 
 ---
 
+## Autorin
+
+**Laurita Elsa Kenfack**  
+* GitHub: [@Laurita003](https://github.com/Laurita003)
+
+---
+
 ## Ausführung
 
 Ausführung über die Kommandozeile (CLI) / lokale JVM:
@@ -45,9 +52,3 @@ cd Ticketverkauf
 javac Main.java
 java Main
 
----
-
-## Autorin
-
-**Laurita Elsa**  
-* GitHub: [@Laurita003](https://github.com/Laurita003)
