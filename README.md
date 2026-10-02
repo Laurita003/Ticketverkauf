@@ -45,6 +45,8 @@ cd Ticketverkauf
 javac Main.java
 java Main
 
+---
+
 ## Autorin
 
 **Laurita Elsa**  
